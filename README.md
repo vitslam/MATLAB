@@ -1,4 +1,3 @@
-%% SIR粒子滤波的应用，算法流程参见博客http://blog.csdn.net/heyijia0327/article/details/40899819    
 clear all    
 close all    
 clc    
